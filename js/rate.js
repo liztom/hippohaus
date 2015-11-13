@@ -1,6 +1,6 @@
 $(document).ready(function(){
    $('.js-icon').on('click', function(){
-      $('.icon').removeClass('icon--active');
+      $(this).parent('.rating').children('.icon').removeClass('icon--active');
       $(this).addClass('icon--active');
    });
 });
