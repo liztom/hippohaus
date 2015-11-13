@@ -1,0 +1,19 @@
+img, iframe {
+    max-width: 100%;
+}
+
+.color-band {
+    margin: 15px 0;
+    padding: 15px 0;
+}
+
+.color-band.light-grey {
+    background: #f1f1f1;
+}
+
+.logo {
+    width: 30%;
+    display: block;
+    margin: 20px auto;
+
+}
