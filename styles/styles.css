@@ -2,6 +2,10 @@ img, iframe {
     max-width: 100%;
 }
 
+body {
+    font-family: 'Bitter', serif;
+}
+
 .color-band {
     margin: 15px 0;
     padding: 15px 0;
@@ -16,4 +20,16 @@ img, iframe {
     display: block;
     margin: 20px auto;
 
+}
+
+.header-area {
+    text-align: center;
+}
+.logo-head {
+    font-size: 4em;
+    font-family: 'Indie Flower', cursive;
+}
+.logo-sub {
+    font-size: 1.4em;
+    margin-top: 20px;
 }
