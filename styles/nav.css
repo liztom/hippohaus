@@ -1,3 +1,13 @@
 .navbar-default {
    background-color: #34495e;
 }
+
+.navbar-light .navbar-nav .nav-link {
+   color: rgba(142, 68, 173, 0.9);
+}
+
+.nav-logo {
+   height: 50px;
+   width: 50px;
+}
+
