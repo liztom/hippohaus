@@ -35,3 +35,11 @@ body {
 .card-block {
     margin: 15px 0 25px;
 }
+.card-image-head {
+    background-size: cover;
+    width: 100%;
+    display: block;
+    background-repeat: no-repeat;
+    background-position: center center;
+    height: 200px;
+}
