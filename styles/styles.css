@@ -32,3 +32,6 @@ body {
     font-size: 1.4em;
     margin-top: 20px;
 }
+.card-block {
+    margin: 15px 0 25px;
+}
