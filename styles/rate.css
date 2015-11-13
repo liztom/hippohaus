@@ -1,7 +1,18 @@
 .rating {
-   
+   position: absolute;
+   right: 10px;
+   display: inline-block;
 }
 .icon {
-   height: 30px;
-   width: 30px;
+   font-size: 30px;
+   color: #e74c3c;
+   cursor: pointer;
+}
+
+.icon:hover {
+   color: #8e44ad;
+}
+
+.icon--active {
+   color: #8e44ad;
 }
