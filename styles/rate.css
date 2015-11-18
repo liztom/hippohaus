@@ -13,10 +13,11 @@
    color: #8e44ad;
 }
 
-.icon--current {
-   color: #e74c3c;
-}
-
 .icon--active {
    color: #8e44ad;
+}
+
+
+.icon--current {
+   color: #e74c3c;
 }
